@@ -1,1 +1,6 @@
 *.csv
+.python-version
+duplicate_question_model.h5
+pyproject.toml
+/src
+/.venv
