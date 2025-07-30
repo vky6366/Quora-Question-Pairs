@@ -4,3 +4,6 @@ duplicate_question_model.h5
 pyproject.toml
 /src
 /.venv
+w2v.model.syn1neg.npy
+w2v.model.wv.vectors.npy
+w2v.model
